@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <i>never lose faith in your dream; work so hard that you can't fail</i>
+  <br>
+  — Osamason
+</p>
 
-<!--
-**1336Sosa/1336Sosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7f3fbf&style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://discord.gg/YOURINVITE">
+    <img src="https://skillicons.dev/icons?i=discord" height="48"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="48"/>
+  </a>
+</p>
