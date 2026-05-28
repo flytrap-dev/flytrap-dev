@@ -1,5 +1,5 @@
 <p align="center">
-  <i>A Paster will always paste.</i>
+  <i>_Hey claude make me shellcode_</i>
   <br>
   — Sosa
 </p>
