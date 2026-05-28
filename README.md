@@ -1,7 +1,7 @@
 <p align="center">
-  <i>_Hey claude make me shellcode_</i>
+  <i>Hey claude make me shellcode</i>
   <br>
-  — Sosa
+  — Flytrap
 </p>
 
 <p align="center">
